@@ -1,0 +1,11 @@
+{
+  "name": "my-vercel-website",
+  "version": "1.0.0",
+  "description": "A static website for Vercel deployment",
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  },
+  "keywords": ["vercel", "static", "website"],
+  "author": "Your Name",
+  "license": "MIT"
+}
